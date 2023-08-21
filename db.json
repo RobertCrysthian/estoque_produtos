@@ -1,0 +1,52 @@
+{
+  "produtos": [
+    {
+      "nome": "Aipim",
+      "preco": "44,00",
+      "qtdEstoque": "55",
+      "id": 9
+    },
+    {
+      "nome": "Pãozinho de lei",
+      "preco": "900,00",
+      "qtdEstoque": "111",
+      "id": 10
+    },
+    {
+      "nome": "Pizza",
+      "preco": "50,00",
+      "qtdEstoque": "80",
+      "id": 11
+    },
+    {
+      "nome": "Manteiga",
+      "preco": "60",
+      "qtdEstoque": "212",
+      "id": 12
+    },
+    {
+      "nome": "Cabalo",
+      "preco": "555,55",
+      "qtdEstoque": "80",
+      "id": 13
+    },
+    {
+      "nome": "Requeijão",
+      "preco": "50,00",
+      "qtdEstoque": "90",
+      "id": 14
+    },
+    {
+      "nome": "Lasanha",
+      "preco": "80,00",
+      "qtdEstoque": "500",
+      "id": 15
+    },
+    {
+      "nome": "Arroz",
+      "preco": "50,00",
+      "qtdEstoque": "30",
+      "id": 16
+    }
+  ]
+}
