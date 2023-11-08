@@ -1,7 +1,7 @@
 Para iniciar o projeto precisaremos executar o comando: 
-  ##npm start
+  ##npm start.
 Logo em seguida, em outro terminal, executaremos outro comando para dar inicio ao json server:
-  ##npx json-server db.json --watch -p 8080
+  ##npx json-server db.json --watch -p 8080.
 
 O arquivo que guarda as informações da api mockada é o db.json, que pode ser acessada no projeto.
 
